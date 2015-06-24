@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Florian Krapp, Jonas Riegel, Tanja Schantl" />
+	<title>{{ page.title }}</title>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+<nav>
+	<ul>
+		<li><a href="/" {% if page.url contains "/" %}class="active"{% endif %} title="">Deutsch</a></li>
+		<li><a href="/english/" {% if page.url contains "/english/" %}class="active"{% endif %} title="">English</a></li>
+        <li><a href="/about.html"{% if page.url contains "/about.html" %}class="active"{% endif %}>About</a></li>
+	</ul>
+</nav>
+{{ content }}
+
+<footer>
+	<a href="mailto:gamemakermainfest@gmail.com?subject=feedback" "email me">Send Email</a>
+	<a href="impressum.html">Impressum</a>
+</footer>
+</body>
+</html>
