@@ -19,9 +19,9 @@ body{
 	width: 100%;
 	height: 100%;
 	background-color: #8ce9b5;
-	color: #000000;
-	font-family: Inconsolata, sans-serif;
-	font-size: 100%;
+	color: #fff;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 100%;
 	line-height: 1.6;
 }
 /* LINKS */
@@ -42,8 +42,8 @@ a:hover {
 /* NAVIGATION */
 
 nav {
-	background: #B8E986;
-	border-bottom: 1px solid #8FB568;
+	background: #8ce9b5;
+	border-bottom: 1px solid transparent;
 	position: fixed;
 	width: 100%;
 	margin: 0 auto 4.5rem;
