@@ -82,7 +82,7 @@ img {
 h2 {
 	letter-spacing: .1rem;
 	font-size: 6rem;
-	line-height: 1;
+	line-height: 1.2;
 }
 
 p {
@@ -95,7 +95,7 @@ p {
     margin-right:20px;
     padding-left:0;
     margin-left:0;
-    margin-top:-10px;
+    margin-top:-20px;
     display: inline-block;
     width:64px;
     height:65px;
