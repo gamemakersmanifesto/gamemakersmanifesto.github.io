@@ -35,15 +35,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65174127" vertical-offset="717" max-vertical-offset="1425">
+            <state vertical-scroll-proportion="-16.375" vertical-offset="717" max-vertical-offset="1425">
               <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#section#7;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gamer.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/gamer.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -338,12 +345,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65174127" vertical-offset="717" max-vertical-offset="1425">
+        <state vertical-scroll-proportion="-16.375" vertical-offset="717" max-vertical-offset="1425">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#1;n#div#0;n#section#7;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/gamer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
