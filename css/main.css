@@ -88,6 +88,9 @@ h2 {
 p {
     font-size: 18px;
 }
+.rupee {
+    display: inline-flex;
+}
 
 @media all and (min-width: 960px) {
 
