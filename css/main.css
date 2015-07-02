@@ -90,6 +90,8 @@ p {
 }
 .rupee {
     display: inline-flex;
+    max-width: 70px;
+    padding:40px;
 }
 
 @media all and (min-width: 960px) {
