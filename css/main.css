@@ -62,7 +62,8 @@ nav a {
 
 section {
     max-width:85%;
-    margin:auto;
+    margin-left:7.5%;
+    margin-right:7.5%;
 }
 
 /* TEXT */
@@ -83,7 +84,23 @@ h1 + p {
 	font-size: 1.4rem;
 }
 
-/* LISTS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LISTS
 
 ol {
     list-style-type: none;
@@ -120,3 +137,4 @@ ol > li:before {
     display: block;
     text-align: center;
 }
+*/
