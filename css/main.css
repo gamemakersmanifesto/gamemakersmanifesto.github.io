@@ -89,13 +89,15 @@ p {
     font-size: 18px;
 }
 .rupee {
-    -ms-transform: scale(0.5,0.5); /* IE 9 */
-    -webkit-transform: scale(0.5,0.5); /* Safari */
-    transform: scale(0.6,0.6);
-    margin-right:40px;
+    /*-ms-transform: scale(0.5,0.5); /* IE 9 */
+    /*-webkit-transform: scale(0.5,0.5); /* Safari */
+    /*transform: scale(0.6,0.6);*/
+    margin-right:20px;
     padding-left:0;
     margin-left:0;
     display: inline-block;
+    width:64px;
+    height:65px;
 }
 
 @media all and (min-width: 960px) {
