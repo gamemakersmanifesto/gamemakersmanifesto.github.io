@@ -72,7 +72,9 @@ section {
     transform: translateY(-50%);
 }
 
-
+img {
+    max-height: 100vh;
+}
 
 /* TEXT */
 
