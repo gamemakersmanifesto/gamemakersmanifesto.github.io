@@ -66,6 +66,14 @@ section {
     margin-right:7.5%;
 }
 
+.vertical-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+
 /* TEXT */
 
 h1 {
