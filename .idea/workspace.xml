@@ -456,7 +456,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436396205014</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="REFURBISH: Structure + Css">
+      <created>1436396281307</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1436396281307</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
