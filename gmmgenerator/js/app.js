@@ -5,8 +5,8 @@
 
     // manipulate image here
     this.newLayer(function () {
-        this.setBlendingMode("screen");
-        this.overlayImage("img/rupee_logo.png");
+        this.setBlendingMode("normal");
+        this.overlayImage("img/rupee.png");
     });
 
 
