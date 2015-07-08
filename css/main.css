@@ -71,8 +71,10 @@ img {
     margin: 0 auto;
 }
 .gmm-logo {
-    padding-top:120px;
-    padding-bottom:60px;
+    background: #8ec9b5;
+    margin-top:120px;
+    margin-bottom:60px;
+
 }
 .separator {
     display: block;
