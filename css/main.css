@@ -99,7 +99,11 @@ figcaption {
     margin-top:30px;
 }
 /* TEXT */
-
+h1 {
+    letter-spacing: .1rem;
+    line-height: 1.2;
+    font-weight: 600;
+}
 h2 {
 	letter-spacing: .1rem;
 	line-height: 1.2;
@@ -133,6 +137,9 @@ p {
 
 
 @media all and (min-width: 960px) {
+    h1 {
+        font-size: 8rem;
+    }
     h2 {
         font-size: 6rem;
     }
@@ -142,6 +149,9 @@ p {
 }
 
 @media all and (max-width: 959px) and (min-width: 600px) {
+    h1 {
+        font-size: 7rem;
+    }
     h2 {
         font-size: 5rem;
     }
@@ -151,6 +161,9 @@ p {
 }
 
 @media all and (max-width: 599px) and (min-width: 320px) {
+    h1 {
+        font-size: 6rem;
+    }
     h2 {
         font-size: 4rem;
     }
