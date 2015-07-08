@@ -91,6 +91,10 @@ img {
 .avatar-cta {
     margin-top:20px;
 }
+figcaption {
+    font-size: 150%;
+    text-align: center;
+}
 /* TEXT */
 
 h2 {
