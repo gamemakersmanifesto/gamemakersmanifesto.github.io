@@ -89,11 +89,14 @@ img {
     border:#40735a;
 }
 .avatar-cta {
-    margin-top:20px;
+    margin-top:30px;
 }
 figcaption {
     font-size: 150%;
     text-align: center;
+}
+.avatare {
+    margin-top:30px;
 }
 /* TEXT */
 
