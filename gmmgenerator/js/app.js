@@ -1,6 +1,6 @@
  var process_image = function () {
     this.lowEnd(60);
-    this.greyscale();
+    //this.greyscale();
     //this.render();
 
     // manipulate image here
