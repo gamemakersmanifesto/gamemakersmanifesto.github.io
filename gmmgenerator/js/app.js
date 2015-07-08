@@ -6,14 +6,14 @@
     // manipulate image here
     this.newLayer(function () {
         this.setBlendingMode("screen");
-        this.overlayImage("img/hearttemplate.png");
+        this.overlayImage("img/rupee.png");
     });
 
 
     // manipulate image here
     this.newLayer(function () {
         this.setBlendingMode("cutToWhite");
-        this.overlayImage("img/heartmask.png");
+        this.overlayImage("img/rupee_mask.png");
     });
 
     this.render(function () {
