@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest.html" afterPath="$PROJECT_DIR$/_layouts/manifest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="manifest.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39785552" vertical-offset="0" max-vertical-offset="2385">
-              <caret line="47" column="152" selection-start-line="47" selection-start-column="152" selection-end-line="47" selection-end-column="152" />
+            <state vertical-scroll-proportion="0.43171558" vertical-offset="0" max-vertical-offset="2385">
+              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -451,7 +450,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436396171888</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="REFURBISH: Structure + Css">
+      <created>1436396205014</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1436396205014</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -705,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39785552" vertical-offset="0" max-vertical-offset="2385">
-          <caret line="47" column="152" selection-start-line="47" selection-start-column="152" selection-end-line="47" selection-end-column="152" />
+        <state vertical-scroll-proportion="0.43171558" vertical-offset="0" max-vertical-offset="2385">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
           <folding />
         </state>
       </provider>
