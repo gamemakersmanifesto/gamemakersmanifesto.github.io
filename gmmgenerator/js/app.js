@@ -1,5 +1,5 @@
  var process_image = function () {
-    this.lowEnd(60);
+    //this.lowEnd(100);
     //this.greyscale();
     //this.render();
 
