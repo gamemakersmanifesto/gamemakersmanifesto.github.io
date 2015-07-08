@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest.html" afterPath="$PROJECT_DIR$/_layouts/manifest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,20 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="manifest.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="2415">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.88995486" vertical-offset="883" max-vertical-offset="2655">
+              <caret line="164" column="129" selection-start-line="164" selection-start-column="129" selection-end-line="164" selection-end-column="129" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65144765" vertical-offset="195" max-vertical-offset="3165">
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3165">
               <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
               <folding />
             </state>
@@ -111,8 +110,8 @@
         <option value="$PROJECT_DIR$/gmmgenerator/js/app.js" />
         <option value="$PROJECT_DIR$/gmmgenerator/css/app.css" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_layouts/manifest.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_layouts/manifest.html" />
       </list>
     </option>
   </component>
@@ -482,7 +481,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436396393678</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="REFURBISH: Structure + Css">
+      <created>1436396490846</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1436396490846</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -726,18 +731,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="2415">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3165">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65144765" vertical-offset="195" max-vertical-offset="3165">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.88995486" vertical-offset="883" max-vertical-offset="2655">
+          <caret line="164" column="129" selection-start-line="164" selection-start-column="129" selection-end-line="164" selection-end-column="129" />
           <folding />
         </state>
       </provider>
