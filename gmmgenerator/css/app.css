@@ -24,9 +24,10 @@ h3 {
     transform: translateY(-50%);
 }
 .credits {
+    padding-top:4rem;
+    padding-bottom:2rem;
     width: 100%;
     text-align: center;
-    margin: 2rem;
     font-size: 20px;
 }
 
