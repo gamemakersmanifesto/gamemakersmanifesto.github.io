@@ -26,8 +26,6 @@
 }
 
 #subtitle {
-    padding: 0;
-    margin-top: 0;
     text-align: center;
 }
 
@@ -36,6 +34,8 @@
     text-align: center;
     margin-bottom: 2rem;
     line-height: 3rem;
+    position: absolute;
+    bottom: 2rem;
 }
 
 input[type="file"] {
