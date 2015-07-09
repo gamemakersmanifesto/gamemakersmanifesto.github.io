@@ -1,14 +1,4 @@
 
-#wrapper {
-    min-height: 100%;
-    height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
-    height: 100%;
-    margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
-}
-#footer, .push {
-    height: 155px; /* .push must be the same height as .footer */
-    font-size: 11pt !important; /*#noshame*/
-}
 
 .entypo-export {
     background-color: rgba(255, 202, 202, 0.32) !important;
