@@ -36,6 +36,7 @@ a {
 
 a:hover {
 	text-decoration: underline;
+    color:#183441;
 }
 
 /* NAVIGATION */
@@ -86,12 +87,14 @@ img {
 .btn-danger {
     background-color: transparent;
     border-color:#fff;
+    border-width: 2px;
     text-transform: uppercase;
 }
 .btn-danger:hover {
     background-color: #fff;
     border-color:#5ba280;
     color:#5ba280;
+    border-width: 2px;
 }
 .avatar-cta {
     margin-top:30px;
@@ -108,11 +111,13 @@ h1 {
     /*letter-spacing: .1rem;*/
     line-height: 1.2;
     font-weight: 600;
+    font-size: 4rem;
     text-align: center;
 }
 h2 {
 	/*letter-spacing: .1rem;*/
 	line-height: 1.2;
+    font-size: 4rem;
     font-weight: 600;
 }
 .rupee {
@@ -132,30 +137,50 @@ h2 {
     margin-left:10px;
     margin-top:-20px;
     display: inline-block;
-    width:120px;
-    height:122px;
+    width:64px;
+    height:65px;
 }
 
 p {
     font-weight: 300;
+    font-size: 17px;
 }
 
 
 @media all and (min-width: 960px) {
-    h1 {
-        font-size: 9rem;
-    }
-    h2 {
-        font-size: 6rem;
-    }
-    p {
-        font-size: 20px;
-    }
+
 }
 
 @media all and (max-width: 959px) and (min-width: 600px) {
+
+}
+
+@media all and (max-width: 599px) and (min-width: 320px) {
+
+}
+
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px){
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px){
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px){
     h1 {
-        font-size: 7.5rem;
+        font-size: 6rem;
+    }
+    .rupee-big{
+        width:100px;
+        height:102px;
     }
     h2 {
         font-size: 5rem;
@@ -165,21 +190,27 @@ p {
     }
 }
 
-@media all and (max-width: 599px) and (min-width: 320px) {
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px){
     h1 {
-        font-size: 5rem;
+        font-size: 9rem;
+    }
+    .rupee-big{
+        width:120px;
+        height:122px;
     }
     h2 {
-        font-size: 4rem;
+        font-size: 6rem;
     }
     p {
-        font-size: 17px;
+        font-size: 20px;
     }
 }
 
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px){
 
-
-
+}
 
 
 
