@@ -41,8 +41,8 @@
       <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gmmgenerator/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3517588" vertical-offset="0" max-vertical-offset="1194">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.21356784" vertical-offset="0" max-vertical-offset="1194">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -315,12 +315,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00033" summary="REFURBISH: Structure + Css">
-      <created>1436398030705</created>
-      <option name="number" value="00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1436398030705</updated>
     </task>
     <task id="LOCAL-00034" summary="REFURBISH: Structure + Css">
       <created>1436398128964</created>
@@ -610,7 +604,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436446569252</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="REFURBISH: Structure + Css">
+      <created>1436446684999</created>
+      <option name="number" value="00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1436446685000</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -885,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gmmgenerator/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3517588" vertical-offset="0" max-vertical-offset="1194">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.21356784" vertical-offset="0" max-vertical-offset="1194">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
