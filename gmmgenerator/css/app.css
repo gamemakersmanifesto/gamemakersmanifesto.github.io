@@ -36,49 +36,22 @@ html, body {
 }
 
 #subtitle {
-    font-size: 14pt !important; /*#noshame*/
-    font-family: "Source Sans Pro", sans-serif !important; /*noshame. foundation is a pain*/
-
-    font-weight: 300 !important;
+    padding: 0;
+    margin-top: 0;
+    text-align: center;
 }
 
-.logo {
-    height: 6rem;
-    width: auto;
-    margin: 2rem;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
 
-a {
-    text-decoration: underline;
-    color: rgba(246, 78, 84, .9);
-}
 
-.credits > a {
-    color: rgba(246, 78, 84, 0.78);
-}
-
-a:hover {
-
-    color: rgba(235, 70, 76, 1);
-}
 
 .credits {
     width: 100%;
-
-    color: #CCC;
     text-align: center;
     margin-bottom: 2rem;
     line-height: 3rem;
 }
 
-#subtitle {
-    padding: 0;
-    margin-top: 0;
-    text-align: center;
-}
+
 #title {
     text-align: center;
 }
@@ -90,7 +63,6 @@ input[type="file"] {
 
 .fileupload {
     border: 1px solid #ccc;
-    display: inline-block;
     padding: .7rem 12px;
     cursor: pointer;
 
