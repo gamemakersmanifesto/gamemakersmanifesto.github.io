@@ -182,7 +182,7 @@ p {
         height:51px;
     }
     h2 {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 }
 
@@ -200,7 +200,7 @@ p {
         height:61px;
     }
     h2 {
-        font-size: 5rem;
+        font-size: 6rem;
     }
     p {
         font-size: 19px;
@@ -216,6 +216,7 @@ p {
         width:100px;
         height:102px;
     }
+
     h2 {
         font-size: 6rem;
     }
