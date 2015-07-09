@@ -2,6 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/avatare/Avatar_Flo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/avatare/Avatar_Jonas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/avatare/Avatar_Tanja.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/poster_jpg/GameMakersManifesto_poster_boobs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/GameMakersManifesto_poster_boobs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/poster_jpg/GameMakersManifesto_poster_gamer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/GameMakersManifesto_poster_gamer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/poster_jpg/GameMakersManifesto_poster_sarkeesian.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/poster_web/GameMakersManifesto_poster_sarkeesian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/android-icon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/blood_splatter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/boobs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/ethics_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/face.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/flipper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/gamepad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/gamepad_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/gamer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/gmm-fb-post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/gun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/logo_gmm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/ms-icon-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/ms-icon-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/ms-icon-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/notme_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/rupee_logo_square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/whocares_text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gmmgenerator/img/icons/manifest.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gmmgenerator/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gmmgenerator/img/logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gmmgenerator/img/rupee.png" afterPath="$PROJECT_DIR$/gmmgenerator/img/rupee.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gmmgenerator/index.html" afterPath="$PROJECT_DIR$/gmmgenerator/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,8 +84,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gmmgenerator/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50056434" vertical-offset="283" max-vertical-offset="2055">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.06410257" vertical-offset="15" max-vertical-offset="2055">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -186,6 +239,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="gmmgenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,11 +273,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gmmgenerator" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/english" />
       <recent name="$PROJECT_DIR$/img/icons" />
       <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/img/poster_web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/icons" />
@@ -255,12 +326,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00020" summary="REFURBISH: Structure + Css">
-      <created>1436395991445</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1436395991445</updated>
     </task>
     <task id="LOCAL-00021" summary="REFURBISH: Structure + Css">
       <created>1436396031384</created>
@@ -550,7 +615,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436443239103</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="REFURBISH: Structure + Css">
+      <created>1436443634498</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1436443634498</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -575,7 +646,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-382" width="1200" height="1920" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -586,11 +657,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33004385" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33004385" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294956" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24956822" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18307427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18307427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -825,8 +896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gmmgenerator/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50056434" vertical-offset="283" max-vertical-offset="2055">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.06410257" vertical-offset="15" max-vertical-offset="2055">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           <folding />
         </state>
       </provider>
