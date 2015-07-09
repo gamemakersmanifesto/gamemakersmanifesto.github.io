@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-48x48.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-120x120.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-180x180.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-57x57.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-60x60.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-76x76.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-310x310.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-70x70.png" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+    <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="REFURBISH: Structure + Css">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/android-icon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/ms-icon-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/ms-icon-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/ms-icon-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -108,8 +107,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5163657" vertical-offset="0" max-vertical-offset="1772">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.24548532" vertical-offset="0" max-vertical-offset="1772">
+              <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -257,24 +256,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="avatare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gamemakersmanifesto.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gamemakersmanifesto.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="english" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -386,12 +367,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00010" summary="REFURBISH: Structure + Css">
-      <created>1436393670157</created>
-      <option name="number" value="00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1436393670157</updated>
     </task>
     <task id="LOCAL-00011" summary="REFURBISH: Structure + Css">
       <created>1436394170667</created>
@@ -681,7 +656,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436439354197</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="REFURBISH: Structure + Css">
+      <created>1436439770621</created>
+      <option name="number" value="00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1436439770621</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -706,7 +687,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-382" width="1200" height="1920" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294956" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -721,7 +702,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294956" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24956822" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18998273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18998273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -956,8 +937,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5163657" vertical-offset="0" max-vertical-offset="1772">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.24548532" vertical-offset="0" max-vertical-offset="1772">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
           <folding />
         </state>
       </provider>
