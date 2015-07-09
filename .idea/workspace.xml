@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest-en.html" afterPath="$PROJECT_DIR$/_layouts/manifest-en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest.html" afterPath="$PROJECT_DIR$/_layouts/manifest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -122,8 +121,8 @@
           <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5832502" vertical-offset="705" max-vertical-offset="3795">
-                  <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
+                <state vertical-scroll-proportion="0.6111665" vertical-offset="2642" max-vertical-offset="3795">
+                  <caret line="217" column="203" selection-start-line="217" selection-start-column="203" selection-end-line="217" selection-end-column="203" />
                   <folding />
                 </state>
               </provider>
@@ -359,12 +358,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00050" summary="REFURBISH: Structure + Css">
-      <created>1436435032023</created>
-      <option name="number" value="00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1436435032029</updated>
     </task>
     <task id="LOCAL-00051" summary="REFURBISH: Structure + Css">
       <created>1436435681511</created>
@@ -654,7 +647,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436452157600</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="REFURBISH: Structure + Css">
+      <created>1436458013958</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1436458013959</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -976,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5832502" vertical-offset="705" max-vertical-offset="3795">
-          <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.6111665" vertical-offset="2642" max-vertical-offset="3795">
+          <caret line="217" column="203" selection-start-line="217" selection-start-column="203" selection-end-line="217" selection-end-column="203" />
           <folding />
         </state>
       </provider>
