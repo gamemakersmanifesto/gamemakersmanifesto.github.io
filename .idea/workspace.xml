@@ -47,7 +47,7 @@
           <file leaf-file-name="manifest.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5982054" vertical-offset="435" max-vertical-offset="3000">
+                <state vertical-scroll-proportion="1.0319043" vertical-offset="0" max-vertical-offset="3000">
                   <caret line="69" column="103" selection-start-line="69" selection-start-column="103" selection-end-line="69" selection-end-column="103" />
                   <folding />
                 </state>
@@ -121,8 +121,8 @@
           <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6111665" vertical-offset="2642" max-vertical-offset="3795">
-                  <caret line="217" column="203" selection-start-line="217" selection-start-column="203" selection-end-line="217" selection-end-column="203" />
+                <state vertical-scroll-proportion="0.5084746" vertical-offset="1005" max-vertical-offset="3795">
+                  <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -358,12 +358,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00051" summary="REFURBISH: Structure + Css">
-      <created>1436435681511</created>
-      <option name="number" value="00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1436435681511</updated>
     </task>
     <task id="LOCAL-00052" summary="REFURBISH: Structure + Css">
       <created>1436435784386</created>
@@ -653,7 +647,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436458013959</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="REFURBISH: Structure + Css">
+      <created>1436460672496</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1436460672496</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -967,7 +967,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5982054" vertical-offset="435" max-vertical-offset="3000">
+        <state vertical-scroll-proportion="1.0319043" vertical-offset="0" max-vertical-offset="3000">
           <caret line="69" column="103" selection-start-line="69" selection-start-column="103" selection-end-line="69" selection-end-column="103" />
           <folding />
         </state>
@@ -975,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6111665" vertical-offset="2642" max-vertical-offset="3795">
-          <caret line="217" column="203" selection-start-line="217" selection-start-column="203" selection-end-line="217" selection-end-column="203" />
+        <state vertical-scroll-proportion="0.5084746" vertical-offset="1005" max-vertical-offset="3795">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding />
         </state>
       </provider>
