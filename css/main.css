@@ -89,7 +89,7 @@ img {
     text-transform: uppercase;
 }
 .btn-danger:hover {
-    background-color: transparent;
+    background-color: #fff;
     border-color:#5ba280;
     color:#5ba280;
 }
