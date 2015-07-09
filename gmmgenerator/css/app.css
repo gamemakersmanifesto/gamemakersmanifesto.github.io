@@ -7,6 +7,15 @@
 .entypo-export span {
     font-family: sans-serif !important;
 }
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.upload-cta-container {
+    text-align: center;
+}
 .credits {
     width: 100%;
     text-align: center;
