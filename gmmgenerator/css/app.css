@@ -20,10 +20,9 @@ h3 {
 .credits {
     width: 100%;
     text-align: center;
-    margin-bottom: 2rem;
+    margin: 2rem;
     line-height: 3rem;
-    position: absolute;
-    bottom: 2rem;
+    font-size: 16px;
 }
 
 input[type="file"] {
