@@ -84,12 +84,14 @@ img {
     margin-bottom: 50px;
 }
 .btn-danger {
-    background-color: #183441;
-    border-color:#40735a;
+    background-color: transparent;
+    border-color:#fff;
+    text-transform: uppercase;
 }
 .btn-danger:hover {
-    background-color: #40735a;
+    background-color: transparent;
     border-color:#5ba280;
+    color:#5ba280;
 }
 .avatar-cta {
     margin-top:30px;
