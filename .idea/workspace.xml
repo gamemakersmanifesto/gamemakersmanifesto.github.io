@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/android-icon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rupee_logo_square.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/english/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/manifest-en.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -48,21 +78,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52616924" vertical-offset="1950" max-vertical-offset="4395">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="4395">
               <caret line="193" column="15" selection-start-line="193" selection-start-column="15" selection-end-line="193" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/english/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="2790">
+              <caret line="49" column="110" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="110" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="615">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.34706545" vertical-offset="0" max-vertical-offset="1772">
+              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -109,9 +159,11 @@
         <option value="$PROJECT_DIR$/gmmgenerator/index.html" />
         <option value="$PROJECT_DIR$/gmmgenerator/js/app.js" />
         <option value="$PROJECT_DIR$/gmmgenerator/css/app.css" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/manifest.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/english/index.html" />
+        <option value="$PROJECT_DIR$/_layouts/manifest-en.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -194,7 +246,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="avatare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamemakersmanifesto.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="english" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,11 +336,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/poster_web" />
       <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/gmmgenerator/img" />
+      <recent name="$PROJECT_DIR$/img/icons" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/english" />
+      <recent name="$PROJECT_DIR$/img/poster_web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/icons" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img/avatare" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/poster_web/poster_jpg" />
@@ -301,12 +389,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00006" summary="REFURBISH: Structure + Css">
-      <created>1436392347578</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1436392347578</updated>
     </task>
     <task id="LOCAL-00007" summary="REFURBISH: Structure + Css">
       <created>1436393251501</created>
@@ -596,7 +678,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436436357972</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="REFURBISH: Structure + Css">
+      <created>1436436582924</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1436436582924</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -837,14 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="615">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-62.583332" vertical-offset="1018" max-vertical-offset="2790">
@@ -855,8 +935,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52616924" vertical-offset="1950" max-vertical-offset="4395">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="4395">
           <caret line="193" column="15" selection-start-line="193" selection-start-column="15" selection-end-line="193" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/english/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="2790">
+          <caret line="49" column="110" selection-start-line="49" selection-start-column="106" selection-end-line="49" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34706545" vertical-offset="0" max-vertical-offset="1772">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
           <folding />
         </state>
       </provider>
