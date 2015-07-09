@@ -21,15 +21,14 @@
 <body>
 <nav>
 	<ul>
-		<li><a href="/" {% if page.url contains "/" %}class="active"{% endif %} title="">Deutsch</a></li>
-		<li><a href="/english/" {% if page.url contains "/english/" %}class="active"{% endif %} title="">English</a></li>
+		<li><a href="/" {% if page.url contains "/" %}class="active"{% endif %} title="german">German</a></li>
+		<li><a href="/english/" {% if page.url contains "/english/" %}class="active"{% endif %} title="english">English</a></li>
 	</ul>
 </nav>
 
 {{ content }}
 
 <footer>
-	<a href="mailto:gamemakermainfest@gmail.com?subject=feedback" "email me">Send Email</a>
 	<a href="impressum.html">Impressum</a>
 </footer>
 </body>
