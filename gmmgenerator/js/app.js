@@ -6,7 +6,7 @@
     // manipulate image here
     this.newLayer(function () {
         this.setBlendingMode("normal");
-        this.overlayImage("img/rupee.png");
+        this.overlayImage("img/rupee_overlay.png");
     });
 
 
