@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gmmgenerator/css/app.css" afterPath="$PROJECT_DIR$/gmmgenerator/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gmmgenerator/index.html" afterPath="$PROJECT_DIR$/gmmgenerator/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -28,21 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gmmgenerator/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.235294" vertical-offset="642" max-vertical-offset="1830">
-              <caret line="81" column="65" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.56692916" vertical-offset="642" max-vertical-offset="1845">
+              <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gmmgenerator/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21356784" vertical-offset="0" max-vertical-offset="1194">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -102,8 +103,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/gmmgenerator/js/app.js" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/gmmgenerator/index.html" />
         <option value="$PROJECT_DIR$/gmmgenerator/css/app.css" />
+        <option value="$PROJECT_DIR$/gmmgenerator/index.html" />
       </list>
     </option>
   </component>
@@ -315,12 +316,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00034" summary="REFURBISH: Structure + Css">
-      <created>1436398128964</created>
-      <option name="number" value="00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1436398128964</updated>
     </task>
     <task id="LOCAL-00035" summary="REFURBISH: Structure + Css">
       <created>1436398209902</created>
@@ -610,7 +605,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436446685000</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="REFURBISH: Structure + Css">
+      <created>1436446736566</created>
+      <option name="number" value="00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1436446736566</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -875,18 +876,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmmgenerator/index.html">
+    <entry file="file://$PROJECT_DIR$/gmmgenerator/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.235294" vertical-offset="642" max-vertical-offset="1830">
-          <caret line="81" column="65" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmmgenerator/css/app.css">
+    <entry file="file://$PROJECT_DIR$/gmmgenerator/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21356784" vertical-offset="0" max-vertical-offset="1194">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.56692916" vertical-offset="642" max-vertical-offset="1845">
+          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
           <folding />
         </state>
       </provider>
