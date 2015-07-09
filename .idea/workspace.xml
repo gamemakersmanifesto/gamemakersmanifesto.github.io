@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GameMakersManifesto_Presskit.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest-en.html" afterPath="$PROJECT_DIR$/_layouts/manifest-en.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest.html" afterPath="$PROJECT_DIR$/_layouts/manifest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -49,8 +48,8 @@
           <file leaf-file-name="manifest.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.64107674" vertical-offset="1997" max-vertical-offset="3000">
-                  <caret line="176" column="66" selection-start-line="176" selection-start-column="66" selection-end-line="176" selection-end-column="66" />
+                <state vertical-scroll-proportion="0.5982054" vertical-offset="435" max-vertical-offset="3000">
+                  <caret line="69" column="103" selection-start-line="69" selection-start-column="103" selection-end-line="69" selection-end-column="103" />
                   <folding />
                 </state>
               </provider>
@@ -123,8 +122,8 @@
           <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5214357" vertical-offset="2777" max-vertical-offset="3780">
-                  <caret line="220" column="30" selection-start-line="220" selection-start-column="30" selection-end-line="220" selection-end-column="30" />
+                <state vertical-scroll-proportion="0.5832502" vertical-offset="705" max-vertical-offset="3795">
+                  <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
                   <folding />
                 </state>
               </provider>
@@ -147,8 +146,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/impressum.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_layouts/manifest-en.html" />
         <option value="$PROJECT_DIR$/_layouts/manifest.html" />
+        <option value="$PROJECT_DIR$/_layouts/manifest-en.html" />
       </list>
     </option>
   </component>
@@ -360,12 +359,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00049" summary="REFURBISH: Structure + Css">
-      <created>1436434987113</created>
-      <option name="number" value="00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1436434987113</updated>
     </task>
     <task id="LOCAL-00050" summary="REFURBISH: Structure + Css">
       <created>1436435032023</created>
@@ -655,7 +648,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436451857444</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="REFURBISH: Structure + Css">
+      <created>1436452157600</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1436452157600</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -967,18 +966,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5214357" vertical-offset="2777" max-vertical-offset="3780">
-          <caret line="220" column="30" selection-start-line="220" selection-start-column="30" selection-end-line="220" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.5982054" vertical-offset="435" max-vertical-offset="3000">
+          <caret line="69" column="103" selection-start-line="69" selection-start-column="103" selection-end-line="69" selection-end-column="103" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/manifest.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64107674" vertical-offset="1997" max-vertical-offset="3000">
-          <caret line="176" column="66" selection-start-line="176" selection-start-column="66" selection-end-line="176" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.5832502" vertical-offset="705" max-vertical-offset="3795">
+          <caret line="86" column="103" selection-start-line="86" selection-start-column="103" selection-end-line="86" selection-end-column="103" />
           <folding />
         </state>
       </provider>
