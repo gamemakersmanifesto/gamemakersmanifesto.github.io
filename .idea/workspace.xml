@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4851af79-12e5-43ec-b1b0-09afe15ba9c0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/manifest-en.html" afterPath="$PROJECT_DIR$/_layouts/manifest-en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gmm-fb-post.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gamemakersmanifesto.github.io.iws" />
@@ -51,8 +52,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="4395">
-              <caret line="193" column="15" selection-start-line="193" selection-start-column="15" selection-end-line="193" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4395">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -68,21 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest-en.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73758465" vertical-offset="1483" max-vertical-offset="3405">
+            <state vertical-scroll-proportion="-54.458332" vertical-offset="1483" max-vertical-offset="3405">
               <caret line="186" column="74" selection-start-line="186" selection-start-column="74" selection-end-line="186" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-35.0" vertical-offset="0" max-vertical-offset="990">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.35553047" vertical-offset="0" max-vertical-offset="1772">
+              <caret line="42" column="104" selection-start-line="42" selection-start-column="104" selection-end-line="42" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -132,8 +133,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/english/index.html" />
         <option value="$PROJECT_DIR$/_layouts/manifest.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/manifest-en.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -306,8 +307,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/english" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/english" />
       <recent name="$PROJECT_DIR$/img/icons" />
       <recent name="$PROJECT_DIR$/_layouts" />
       <recent name="$PROJECT_DIR$/img/poster_web" />
@@ -359,12 +360,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00015" summary="REFURBISH: Structure + Css">
-      <created>1436394744318</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1436394744318</updated>
     </task>
     <task id="LOCAL-00016" summary="REFURBISH: Structure + Css">
       <created>1436394895161</created>
@@ -654,7 +649,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436441720936</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="REFURBISH: Structure + Css">
+      <created>1436441818248</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1436441818248</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -895,18 +896,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/english/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-35.0" vertical-offset="0" max-vertical-offset="990">
-          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-54.458332" vertical-offset="1483" max-vertical-offset="3405">
+          <caret line="186" column="74" selection-start-line="186" selection-start-column="74" selection-end-line="186" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1950" max-vertical-offset="4395">
-          <caret line="193" column="15" selection-start-line="193" selection-start-column="15" selection-end-line="193" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4395">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -919,18 +928,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/english/index.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/manifest-en.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73758465" vertical-offset="1483" max-vertical-offset="3405">
-          <caret line="186" column="74" selection-start-line="186" selection-start-column="74" selection-end-line="186" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.35553047" vertical-offset="0" max-vertical-offset="1772">
+          <caret line="42" column="104" selection-start-line="42" selection-start-column="104" selection-end-line="42" selection-end-column="104" />
           <folding />
         </state>
       </provider>
