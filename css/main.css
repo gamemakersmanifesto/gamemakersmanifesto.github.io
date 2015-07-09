@@ -193,11 +193,11 @@ p {
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px){
     h1 {
-        font-size: 9rem;
+        font-size: 7rem;
     }
     .rupee-big{
-        width:120px;
-        height:122px;
+        width:100px;
+        height:102px;
     }
     h2 {
         font-size: 6rem;
@@ -209,7 +209,13 @@ p {
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px){
-
+    h1 {
+        font-size: 9rem;
+    }
+    .rupee-big{
+        width:120px;
+        height:122px;
+    }
 }
 
 

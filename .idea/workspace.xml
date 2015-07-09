@@ -51,8 +51,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5762806" vertical-offset="1695" max-vertical-offset="4035">
-              <caret line="182" column="17" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.7182628" vertical-offset="1695" max-vertical-offset="4125">
+              <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -269,12 +269,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00003" summary="REFURBISH: Structure">
-      <created>1436391608920</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1436391608920</updated>
     </task>
     <task id="LOCAL-00004" summary="REFURBISH: Structure">
       <created>1436391880195</created>
@@ -564,7 +558,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436435681511</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="REFURBISH: Structure + Css">
+      <created>1436435784386</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1436435784386</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -823,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5762806" vertical-offset="1695" max-vertical-offset="4035">
-          <caret line="182" column="17" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.7182628" vertical-offset="1695" max-vertical-offset="4125">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
           <folding />
         </state>
       </provider>
