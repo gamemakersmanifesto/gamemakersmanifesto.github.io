@@ -129,16 +129,16 @@ h2 {
     margin-left:0;
     margin-top:-15px;
     display: inline-block;
-    width:64px;
-    height:65px;
+    width:44px;
+    height:45px;
 }
 .rupee-big {
     margin-right:5px;
     margin-left:10px;
     margin-top:-20px;
     display: inline-block;
-    width:64px;
-    height:65px;
+    width:44px;
+    height:45px;
 }
 
 p {
@@ -170,7 +170,20 @@ p {
 
 /* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px){
-
+    h1 {
+        font-size: 5rem;
+    }
+    .rupee-big{
+        width:60px;
+        height:61px;
+    }
+    .rupee {
+        width:50px;
+        height:51px;
+    }
+    h2 {
+        font-size: 4rem;
+    }
 }
 
 /* Small Devices, Tablets */
@@ -181,6 +194,10 @@ p {
     .rupee-big{
         width:80px;
         height:81px;
+    }
+    .rupee {
+        width:60px;
+        height:61px;
     }
     h2 {
         font-size: 5rem;
@@ -193,7 +210,7 @@ p {
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px){
     h1 {
-        font-size: 7rem;
+        font-size: 7.5rem;
     }
     .rupee-big{
         width:100px;
