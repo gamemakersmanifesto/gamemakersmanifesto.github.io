@@ -27,10 +27,7 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-150x150.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-310x310.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/ms-icon-70x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rupee_logo_square.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/english/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/manifest-en.html" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/Medienethik_Manifest/website/Favicon_Rupee.ico/manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -111,8 +108,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34706545" vertical-offset="0" max-vertical-offset="1772">
-              <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.16930023" vertical-offset="0" max-vertical-offset="1772">
+              <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -389,12 +386,6 @@
       <created>1435664757058</created>
       <option name="number" value="Default" />
       <updated>1435664757058</updated>
-    </task>
-    <task id="LOCAL-00007" summary="REFURBISH: Structure + Css">
-      <created>1436393251501</created>
-      <option name="number" value="00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1436393251501</updated>
     </task>
     <task id="LOCAL-00008" summary="REFURBISH: Structure + Css">
       <created>1436393401485</created>
@@ -684,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436436582924</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="REFURBISH: Structure + Css">
+      <created>1436438831833</created>
+      <option name="number" value="00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1436438831833</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -959,8 +956,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34706545" vertical-offset="0" max-vertical-offset="1772">
-          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.16930023" vertical-offset="0" max-vertical-offset="1772">
+          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
           <folding />
         </state>
       </provider>
